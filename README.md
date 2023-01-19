@@ -1,4 +1,4 @@
-# Amazon Top-10-Product-Sales
+# Amazon_Top_10_Product_Sales
 Product Sales Tableau Dashboard 
  
 In this project, I have found the trends and data for different countries. Showed the insights about profit, sales, over different countries.

@@ -7,7 +7,7 @@ Created the dashboard which should include the following in the insights-
 2.Shared overview on Sales and profit.
 3.Under performing product and category.
 
-[Amazon Top-10-Product-Sales Dashboard](https://public.tableau.com/app/profile/pushp.jain/viz/AmazonTop10Products/AmazonTop10ProductsDashboard)
+[Amazon Top 10 Product Sales Dashboard](https://public.tableau.com/app/profile/pushp.jain/viz/AmazonTop10Products/AmazonTop10ProductsDashboard)
 
 ![AmazonTop10ProductSales](Amazon%20Dashboard.png)
 
